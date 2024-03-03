@@ -1,6 +1,8 @@
+package ru.netology.services;
+
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
-import ru.netology.CalcVacationMonth;
+
 
 public class CalcVacationMonthTest {
     @Test
